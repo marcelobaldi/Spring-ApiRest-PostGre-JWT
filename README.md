@@ -6,11 +6,11 @@
 - Git Hub: https://github.com/marcelobaldi/Spring-ApiRest-PostGre-JWT;
 
 **Technologies**
-- Language: Java
-- Framework: Spring Boot
-- API Type: Rest (Json)
-- Database Name|Type: PostGre (SQL)
+- Language: Java;
+- Framework: Spring Boot;
+- API Type: Rest (Json);
+- Database Name|Type: PostGre (SQL);
 - DataBase Connector: DataJPA, EntityOrm;
-- Security Process: Cryptography, CORS, JWT
+- Security Process: Cryptography, CORS, JWT;
 - Others Tech: DevTools, BeanValidation, Lombok; 
 - Support App: SGBD Beekeeper, ApiTest Insomnia, FlowChart Miro;
